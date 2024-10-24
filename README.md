@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Perris Navarro
 
-- 🔭 I’m currently working on a Master's in Science in Biology, with an emphasis on Bioinformatics and Genomics. 
-- 💼 I currenly work at Northwestern University in Dr. Katherine Amato's lab.
+- 🔭 I am currently working on a MS in Biology, with an emphasis in Bioinformatics and Genomics. 
+- 💼 I currently work at Northwestern University in Dr. Katherine Amato's lab working. 
 - 📫 How to reach me: Email me at perris.navarro14@gmail.com or message me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/perrisn).
 
 ### Languages and Tools
