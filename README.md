@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Perris Navarro
 
-- 🔭 I am currently working on an MS in Biology, with an emphasis in Bioinformatics and Genomics. 
-- 💼 I currently work as a Bioinformatics Intern at Northwestern University in the [Amato Lab](https://www.kramato.com/).
+- 🔭 I have an MS in Biology form the University of Oregon, with an emphasis in Bioinformatics and Genomics. 
+- 💼 I currently work as a Data Scientist at Keck Medicine of USC/Children's Hospital of Los Angeles in the [Emamaullee Transplant Immunology Lab](https://usctransplantlab.weebly.com/).
 - 📫 How to reach me: Email me at perris.navarro14@gmail.com or message me on [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](www.linkedin.com/in/perrisn).
 
 ### Languages and Tools
